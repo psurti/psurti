@@ -1,4 +1,6 @@
-## Hi there 👋
+I'm a senior software engineer focused on building **scalable, high-performance systems** that combine **human expertise with intelligent automation**. My work sits at the intersection of **distributed systems, AI/GenAI, and real-world production engineering**.
+
+I design and build platforms where **humans and machines collaborate**—from rule-based and data-driven systems to AI-assisted decision engines—always with an emphasis on correctness, explainability, and long-term maintainability.
 
 <!--
 **psurti/psurti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
